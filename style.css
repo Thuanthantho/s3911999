@@ -27,11 +27,21 @@ a {
   background-position: top center;
 }
 #button {
-  width: 120px;
-  height: 200vh;
+  width: 100px;
+  height: 150vh;
   position: fixed;
   top: 0;
-  left: 0;
-  background: #009688;
+  right: 0;
+  background: teal;
   font-size: 15px;
+  text-align: center;
+}
+#TEAMPROFILE{
+  margin: 25px 0px 55px;
+  padding:0;
+  text-align: center;
+  font-size: 25px;
+  color: #00AA00;
+  background: #003333;
+  margin-right: 6.5%;
 }
