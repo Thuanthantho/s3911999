@@ -51,8 +51,8 @@ a {
   padding:0;
   text-align: center;
   font-size: 25px;
-  color: #00AA00;
-  background: #003333;
+  color: #111111;
+  background: silver;
   margin-right: 6.5%;
 }
 #FEEDBACK{
@@ -60,7 +60,16 @@ a {
   padding:0;
   text-align: center;
   font-size: 25px;
-  color: #00AA00;
-  background: #003333;
+  color: purple;
+  background: #CCFFCC;
+  margin-right: 6.5%;
+}
+#ITTECHNOLOGIES{
+  margin: 25px 0px 55px;
+  padding:0;
+  text-align: center;
+  font-size: 25px;
+  color: #FF33CC;
+  background: #330000;
   margin-right: 6.5%;
 }
