@@ -11,19 +11,27 @@ body{
   font-size: 12px;
   font-weight: 300;
   line-height: 1.5;
-  background: #E6E6FA;
 }
 a {
   text-decoration: none;
 }
 .interface h1{
   text-align: center;
-  color: #F0F8FF;
+  color: white;
   padding-top: 180px;
-  font-size: 120px;
+  font-size: 130px;
 }
 #interface{
   background: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm380-03.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=fddfa830d6cca5e0c81136f459029bcb);
   background-size: cover;
   background-position: top center;
+}
+#button {
+  width: 120px;
+  height: 200vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: #009688;
+  font-size: 15px;
 }
