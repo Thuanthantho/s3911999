@@ -55,3 +55,12 @@ a {
   background: #003333;
   margin-right: 6.5%;
 }
+#FEEDBACK{
+  margin: 25px 0px 55px;
+  padding:0;
+  text-align: center;
+  font-size: 25px;
+  color: #00AA00;
+  background: #003333;
+  margin-right: 6.5%;
+}
