@@ -27,14 +27,15 @@ a {
   background-position: top center;
 }
 #button {
-  list-style-type: none;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
   width: 100px;
   height: 150vh;
   position: fixed;
   top: 0;
   right: 0;
   background: teal;
-  font-size: 15px;
+  font-size: 13px;
   text-align: center;
 }
 #TEAMPROFILE{
@@ -82,3 +83,7 @@ a {
   background: #8DEEEE;
   margin-right: 6.5%;
 }
+var scroll = new SmoothScroll('a[href*="#"]', {
+speed: 300,
+speedAsDuration: true
+});
